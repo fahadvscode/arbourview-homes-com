@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#243521"/>
+  <path fill="#C07A3E" fill-rule="evenodd" d="
+    M 32 14.08
+    L 52.48 49.92
+    L 43.519999999999996 49.92
+    L 39.68 37.12
+    L 24.32 37.12
+    L 20.48 49.92
+    L 11.52 49.92
+    Z
+    M 32 25.6
+    L 37.120000000000005 31.999999999999996
+    L 26.88 31.999999999999996
+    Z
+  "/>
+</svg>

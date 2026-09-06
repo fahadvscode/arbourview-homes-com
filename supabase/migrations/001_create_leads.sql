@@ -1,5 +1,6 @@
--- Shared Arbourview cluster table. First-built sibling: arbourviewhomes.com (site_source = homes_com).
--- Other siblings (homes_ca, mattamy_com, mattamy_ca) should verify existence rather than re-run this DDL.
+-- Shared Arbourview cluster table. First-built sibling: arbourviewhomes.com
+-- (site_source = https://arbourviewhomes.com).
+-- Other siblings should verify existence rather than re-run this DDL.
 
 create table if not exists arbourview_leads (
   id uuid primary key default gen_random_uuid(),
