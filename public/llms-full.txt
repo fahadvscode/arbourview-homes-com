@@ -514,7 +514,6 @@ export const SITEMAP_ROUTES: {
   { path: "/gallery", changeFrequency: "monthly", priority: 0.7 },
   { path: "/faq", changeFrequency: "weekly", priority: 0.8 },
   { path: "/register", changeFrequency: "monthly", priority: 0.9 },
-  { path: "/thank-you", changeFrequency: "yearly", priority: 0.3 },
   { path: "/blog/oakville-pre-construction-guide", changeFrequency: "monthly", priority: 0.7 },
   { path: "/privacy", changeFrequency: "yearly", priority: 0.3 },
   { path: "/terms", changeFrequency: "yearly", priority: 0.3 },
