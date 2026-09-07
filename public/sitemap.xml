@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://arbourviewhomes.com/</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://arbourviewhomes.com/floor-plans</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://arbourviewhomes.com/pricing</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://arbourviewhomes.com/location</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arbourviewhomes.com/gallery</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://arbourviewhomes.com/faq</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arbourviewhomes.com/register</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://arbourviewhomes.com/blog/oakville-pre-construction-guide</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://arbourviewhomes.com/privacy</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://arbourviewhomes.com/terms</loc>
-    <lastmod>2026-09-01T00:00:00.000Z</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
+<url>
+<loc>https://arbourviewhomes.com/</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://arbourviewhomes.com/floor-plans</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://arbourviewhomes.com/pricing</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://arbourviewhomes.com/location</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://arbourviewhomes.com/gallery</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://arbourviewhomes.com/faq</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://arbourviewhomes.com/register</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://arbourviewhomes.com/blog/oakville-pre-construction-guide</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://arbourviewhomes.com/privacy</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://arbourviewhomes.com/terms</loc>
+<lastmod>2026-09-01</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
 </urlset>
