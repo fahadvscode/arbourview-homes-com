@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arbourviewhomes.com/sitemap-pages.xml
+Sitemap: https://arbourviewhomes.com/sitemap-urls.xml

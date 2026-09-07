@@ -24,10 +24,10 @@ const nextConfig: NextConfig = {
         ],
       },
       {
-        source: "/sitemap-pages.xml",
+        source: "/sitemap-urls.xml",
         headers: [
           { key: "Content-Type", value: "application/xml; charset=utf-8" },
-          { key: "Cache-Control", value: "public, max-age=0, must-revalidate" },
+          { key: "Cache-Control", value: "private, no-store, no-transform" },
           { key: "Content-Disposition", value: "inline" },
         ],
       },
