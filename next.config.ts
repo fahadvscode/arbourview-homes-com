@@ -24,14 +24,6 @@ const nextConfig: NextConfig = {
         ],
       },
       {
-        source: "/sitemap-urls.xml",
-        headers: [
-          { key: "Content-Type", value: "application/xml; charset=utf-8" },
-          { key: "Cache-Control", value: "private, no-store, no-transform" },
-          { key: "Content-Disposition", value: "inline" },
-        ],
-      },
-      {
         source: "/llms.txt",
         headers: [
           { key: "Content-Type", value: "text/plain; charset=utf-8" },
